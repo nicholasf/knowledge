@@ -9,5 +9,5 @@ There is a lack of information about how to write testable OpenResty apps using 
 
 The best tutorials I found were a three part series by Karl Seguin: 
 
-* (An Introduction to OpenResty)[http://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/]
+* [An Introduction to OpenResty](http://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 
